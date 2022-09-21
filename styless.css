@@ -1,0 +1,18 @@
+@import url(css/header.css);
+@import url(css/section.css);
+:root{
+    --amarelo-padrao: #FFDD58;
+    --preto-padrao: #313131;
+    --roxo-padrao:#8338EC;
+    --vermelho-padrao: #FE654F;
+    --branco-padrao:#ffffff;
+    --fonte-padrao:"Big Shoulders Display";
+
+    
+}
+body{
+    background-color: var(--branco-padrao);
+    font-family: var(--fonte-padrao);
+    font-size: 16px;
+    font-weight: 400;
+}

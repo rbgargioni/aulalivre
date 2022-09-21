@@ -1,0 +1,36 @@
+.primeiro__container{
+
+align-items: center;
+padding: 1em 3em 0 3em;
+background-image: "../img/Folhas.svg";
+background-image:  url("../img/Folhas.svg");
+}
+.titulo__principal{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32.0889px;
+    line-height: 38px;
+    letter-spacing: -0.02em;
+    text-align: center;
+
+}
+.titulo__texto{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height */
+
+letter-spacing: -0.06em;
+text-align: center;
+}
+
+.segundo__container{
+    background-color: var(--amarelo-padrao);
+    position: absolute;
+    width: 480px;
+    height: 570px;
+    left: 0px;
+    top: 450px;
+}
